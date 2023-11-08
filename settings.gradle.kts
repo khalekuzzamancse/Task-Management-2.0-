@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TaskManger"
+rootProject.name = "TaskManagement"
 include(":app")
- 
+include(":auth")
